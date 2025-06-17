@@ -19,4 +19,3 @@ This project performs **sentiment analysis** on tweets related to popular brands
 
 - `twitter_training.csv` — training data
 - `twitter_validation.csv` — validation data
-- Format:
